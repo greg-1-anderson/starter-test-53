@@ -18,3 +18,25 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+DEPENDENCY LICENSES:
+
+Name                      Version  License  
+clue/stream-filter        v1.4.0   MIT      
+guzzlehttp/guzzle         6.3.2    MIT      
+guzzlehttp/promises       v1.3.1   MIT      
+guzzlehttp/psr7           1.4.2    MIT      
+knplabs/github-api        2.8.0    MIT      
+php-http/cache-plugin     v1.5.0   MIT      
+php-http/client-common    1.7.0    MIT      
+php-http/discovery        1.4.0    MIT      
+php-http/guzzle6-adapter  v1.1.1   MIT      
+php-http/httplug          v1.1.0   MIT      
+php-http/message          1.6.0    MIT      
+php-http/message-factory  v1.0.2   MIT      
+php-http/promise          v1.0.0   MIT      
+psr/cache                 1.0.1    MIT      
+psr/http-message          1.0.1    MIT      
+symfony/filesystem        v3.3.6   MIT      
+symfony/finder            v3.3.6   MIT      
+symfony/options-resolver  v3.3.6   MIT      
